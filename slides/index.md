@@ -1,10 +1,7 @@
-
 # Project Lambda
 
-From the terminal, pop in:
+政倉 智
 
-  ```yo reveal:slide "Slide Title"```
+2016/01/23 (土)
 
-Available options:
-
- ```--markdown --attributes --notes```
+Java の場合 (LINQ とか勉強会)
